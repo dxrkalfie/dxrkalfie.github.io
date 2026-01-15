@@ -185,7 +185,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   const welcomeText = document.getElementById("welcome-text");
   if (welcomeText) {
-    const welcomeMessage = `Welcome to DxrkModding! 🎉
+    const welcomeMessage = `Welcome to Ligma Services! 🎉
 
 We’re a passionate team of modders who love creating, experimenting, and Modding the fuck out of servers in fivem. Whether you’re here to discover our talented team members, Watch Our videos and make sure to purchase cheats!, or learn some of the ways we use the cheats!, you’ll find plenty of exciting stuff to explore.
 
@@ -257,6 +257,7 @@ Thanks for stopping by, and much love from all of us here at Ligma Services. ❤
   }
 
 });
+
 
 
 
