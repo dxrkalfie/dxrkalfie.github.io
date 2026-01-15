@@ -187,11 +187,11 @@ document.addEventListener("DOMContentLoaded", () => {
   if (welcomeText) {
     const welcomeMessage = `Welcome to DxrkModding! 🎉
 
-We’re a passionate team of modders who love creating, experimenting, and sharing Apks / Stuff we have made with the community. Whether you’re here to discover our talented team members, download our Modded APKs, or learn some of the methods we use, you’ll find plenty of exciting stuff to explore.
+We’re a passionate team of modders who love creating, experimenting, and Modding the fuck out of servers in fivem. Whether you’re here to discover our talented team members, Watch Our videos and make sure to purchase cheats!, or learn some of the ways we use the cheats!, you’ll find plenty of exciting stuff to explore.
 
 And if you want to stay up-to-date, chat with us directly, or just hang out with other like-minded people, make sure to join our Discord server — it's where all the Apks and discussions happen!
 
-Thanks for stopping by, and much love from all of us here at DxrkModding. ❤️`;
+Thanks for stopping by, and much love from all of us here at Ligma Services. ❤️`;
 
     let index = 0;
     function typeWriter() {
@@ -257,6 +257,7 @@ Thanks for stopping by, and much love from all of us here at DxrkModding. ❤️
   }
 
 });
+
 
 
 
