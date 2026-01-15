@@ -171,7 +171,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   const welcomeHeading = document.getElementById("welcome-heading");
   if (welcomeHeading) {
-    const headingText = "Welcome to DxrkModding!";
+    const headingText = "Welcome to Ligma Services!";
     let headingIndex = 0;
     function typeWriterHeading() {
       if (headingIndex < headingText.length) {
@@ -257,6 +257,7 @@ Thanks for stopping by, and much love from all of us here at Ligma Services. ❤
   }
 
 });
+
 
 
 
